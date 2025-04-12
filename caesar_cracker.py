@@ -1,3 +1,4 @@
+#BRUTE FORCE 
 # We need the alphabet because we convert letters into numerical values
 # to be able to use mathematical operations (note we encrypt spaces as well)
 ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ '
